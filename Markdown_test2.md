@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 ## 課題Nobbb MarkDown
 
-=======
-## 課題Noaaa MarkDown
->>>>>>> 95379bd1b7195ee912dd73a32fdf442f4f4e9402
 ###背景
 ツール１にAの機能を実装する
 
