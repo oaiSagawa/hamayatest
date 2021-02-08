@@ -14,3 +14,6 @@
 2. git_tableからxxxを取得する。
 3. vscode_tableにxxxを追加する。
 
+
+アクション
+
