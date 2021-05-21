@@ -20,7 +20,7 @@
 
 #`基本設計書のサンプル`
 
-私が参考にした基本設計書のサンプルを紹介する。
+私が参考にした基本設計書のサンプルを紹介。
 
 [IPA『機能要件の合意形成ガイド』](https://www.ipa.go.jp/sec/softwareengineering/reports/20100331.html)
 
